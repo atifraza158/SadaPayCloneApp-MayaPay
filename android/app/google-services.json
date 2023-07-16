@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207276935867",
+    "project_id": "maya-pay",
+    "storage_bucket": "maya-pay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207276935867:android:b06c99f61d5d582b61779e",
+        "android_client_info": {
+          "package_name": "com.example.maya_pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207276935867-t5uej9trcnj6d0q7424srrupqbudqs0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maya_pay",
+            "certificate_hash": "5329a7a678a1115ff6bbde0e358d77533dde72ea"
+          }
+        },
+        {
+          "client_id": "207276935867-gh056b31m0veo75ljg7032f1c09mmi2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCefhDtYmhUISKqHQo5IKZo1L3aI0x7fWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207276935867-gh056b31m0veo75ljg7032f1c09mmi2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
