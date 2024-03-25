@@ -43,5 +43,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-
+# Firebase related changes, you have to add your firebase options here
 firebase_options.dart
